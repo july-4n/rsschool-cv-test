@@ -4,7 +4,7 @@
 
 ## Contacts
 * Phone: +7-912-398-34-20
-* Email: [september4n@gmail.com](september4n@gmail.com)
+* Email: [september4n@gmail.com](mailto:september4n@gmail.com)
 * GitHub: [july-4n](https://github.com/july-4n)
 * Discord nickname: Julia(@july-4n)
 * Telegram: [@september4n](http://t-do.ru/september4n)
