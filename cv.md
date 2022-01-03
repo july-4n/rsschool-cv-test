@@ -6,7 +6,7 @@
 * Phone: +7-912-398-34-20
 * Email: [september4n@gmail.com](mailto:september4n@gmail.com)
 * GitHub: [july-4n](https://github.com/july-4n)
-* Discord nickname: Julia(@july-4n)
+* Discord nickname: July#8881
 * Telegram: [@september4n](http://t-do.ru/september4n)
 * Location: Tyumen, Russia
 
@@ -44,8 +44,8 @@ function alphabetPosition(text) {
 ```
 ## Work experience
 I have several training projects that I did during learning the HTML Academy.
-* GitHub link [project-cat-energy](https://github.com/july-4n/991959-cat-energy-17)
-* Link to the project [project-fitness](july-4n.github.io)
+* Link to the project [project-cat-energy](https://july-4n.github.io/cat-energy/)
+* Link to the project [project-fitness](https://july-4n.github.io/fitness/)
 
 ## Education
 * 2003-2008 Tyumen State Oil and Gas University - engineer in&nbsp;textile industry
