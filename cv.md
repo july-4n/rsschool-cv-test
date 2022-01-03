@@ -1,6 +1,6 @@
 # Galitskaya Julia
 
-![photo of Galitskaya Julia](img/avatar.jpg)
+![photo of Galitskaya Julia](assets/img/avatar.jpg)
 
 ## Contacts
 * Phone: +7-912-398-34-20
